@@ -26,14 +26,6 @@ Computer vision project for automated vehicle tracking and traffic analysis in M
 7. Estimate speed
 8. Analyze speed using DFT
 
-## Results
-Add screenshots here:
-- Selected vehicle template
-- Correlation map
-- Vehicle trajectory
-- Speed plot
-- DFT spectrum
-
 ## How to Run
 1. Open MATLAB.
 2. Place `TrafficVideo.mp4` in the project folder.
