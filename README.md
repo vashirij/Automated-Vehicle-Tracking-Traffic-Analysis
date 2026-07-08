@@ -39,10 +39,8 @@ Add screenshots here:
 2. Place `TrafficVideo.mp4` in the project folder.
 3. Run:
 
-```matlab
-Main_Project\
-Author
-James Vashiri
+## Author
+### James Vashiri
 
 ## Git commands
 
